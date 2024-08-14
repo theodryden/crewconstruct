@@ -1,0 +1,22 @@
+.loadmorebutton-container {
+    border-radius: 30px;
+    border-color: white;
+
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.loadmorebutton {
+    border-radius: 30px;
+    text-align: center;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 75px;
+    padding-right: 75px;
+
+    background-color: white;
+    border-color: white;
+    font-size: 20px;
+}

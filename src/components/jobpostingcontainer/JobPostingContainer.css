@@ -1,8 +1,9 @@
 .jobpostingcontainer-container{
- 
     display: flex;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+
+    justify-content: space-between;
 
     padding: 30px;
     border-radius: 30px;
@@ -13,17 +14,21 @@
 
 .workschedulebannar{
     display: flex;
-   
     margin-right:  40px;
 }
 
 .workschedulebutton{
     display: flex;
     margin-right:  15px;
+   
 }
-
 
 .companyinformationbannar{
     display: inline-block;
+}
+
+.rightside-container{
+    display: flex;
+
    
 }

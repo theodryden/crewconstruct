@@ -1,0 +1,17 @@
+.footer-container{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+
+    padding: 30px;
+    margin-top: 30px;
+
+    color: white;
+    background-color: rgb(73, 71, 71);
+   
+}
+
+.joblistings-container li, .candidateprofiles-container li, .mycandidates-container li,.connectwithus-container li {
+    list-style-type: none;
+    margin-top: 10px;
+}
