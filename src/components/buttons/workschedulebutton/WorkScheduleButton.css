@@ -1,0 +1,11 @@
+.workschedulebutton-container {
+    border-radius: 30px;
+}
+
+.workschedulebutton {
+    border-radius: 30px;
+    text-align: center;
+    border-color: white;
+    font-size: 30px;
+   
+}

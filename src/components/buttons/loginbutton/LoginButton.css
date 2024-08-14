@@ -1,0 +1,17 @@
+.loginbutton-container {
+    border-style: solid;
+    border-radius: 30px;
+    border-color: white;
+
+}
+
+.loginbutton {
+    border-radius: 30px;
+    text-align: center;
+
+
+    border-color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

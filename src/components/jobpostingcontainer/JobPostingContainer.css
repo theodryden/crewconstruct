@@ -1,0 +1,29 @@
+.jobpostingcontainer-container{
+ 
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    padding: 30px;
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(73, 71, 71);
+    
+}
+
+.workschedulebannar{
+    display: flex;
+   
+    margin-right:  40px;
+}
+
+.workschedulebutton{
+    display: flex;
+    margin-right:  15px;
+}
+
+
+.companyinformationbannar{
+    display: inline-block;
+   
+}

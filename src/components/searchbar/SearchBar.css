@@ -1,0 +1,22 @@
+.searchbar-container{
+    display: flex;
+    justify-content: space-between;
+    
+    border-radius: 25px;
+
+    color: white;
+    background-color: rgb(73, 71, 71);
+
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+input {
+
+    padding-left: 20px;
+    padding-right: 300px;
+    border-radius: 25px;
+}
