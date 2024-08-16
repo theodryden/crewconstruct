@@ -8,8 +8,8 @@
     background-color: rgb(73, 71, 71);
 
     padding: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -17,6 +17,6 @@
 input {
 
     padding-left: 20px;
-    padding-right: 300px;
+    padding-right: 250px;
     border-radius: 25px;
 }

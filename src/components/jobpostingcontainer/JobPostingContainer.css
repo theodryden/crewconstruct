@@ -1,7 +1,9 @@
 .jobpostingcontainer-container{
     display: flex;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
     justify-content: space-between;
 
