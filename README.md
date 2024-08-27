@@ -37,12 +37,9 @@ CSS
 - Using CSS Flex-Box
 
 
-**Current Status**
-- Paused
-
-
 **Future Project Improvements**
 - Make all pages responsive
+- Handle user input fields and form validation
 
   
 **Social Channels**
