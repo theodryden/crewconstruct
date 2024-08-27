@@ -1,8 +1,6 @@
-**Medical Website README**
-The brief for this website was to create a website that helps architects hire the best construction worker talent for their projects.
+**CrewConstruct Website README**
+The aim for this website was to create an application that helps architects hire the best construction worker talent for their projects.
 
-Purpose
-- To practice building React websites to spec
 
 https://github.com/user-attachments/assets/29e84418-b9b0-4395-8d35-14d0e14ea471
 
