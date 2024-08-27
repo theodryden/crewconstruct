@@ -40,6 +40,7 @@ CSS
 **Future Project Improvements**
 - Make all pages responsive
 - Handle user input fields and form validation
+- Finish creating other pages
 
   
 **Social Channels**
