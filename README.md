@@ -18,11 +18,11 @@ CSS
 
 **Project Approach**
 1. Day 0 - Designing the web page
-2. Day 1 - Creating basic website components 
-3. Day 2 - Opting to implement Tailwind.css styling for pages instead of bespoke components
+2. Day 1 - Creating basic website components - Header, Footer, Main, Buttons
 ![Screenshot 2024-08-27 at 20 08 43](https://github.com/user-attachments/assets/9f441f6a-ef3f-4288-b746-573a22705a75)
 ![Screenshot 2024-08-27 at 20 08 49](https://github.com/user-attachments/assets/063c5c08-c8eb-47c1-bf39-3307e113d697)
 ![Screenshot 2024-08-27 at 20 08 57](https://github.com/user-attachments/assets/a0f11bfc-4c4f-4624-acb2-8104fce8f2f5)
+3. Day 2 - Opting for vanilla css instead of frameworks for simplicity
 
 **Project Features**
 - Component-Based Architecture
